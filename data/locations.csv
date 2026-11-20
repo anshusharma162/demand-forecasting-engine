@@ -1,0 +1,13 @@
+location_id,area,store_type,capacity
+L001,Chennai,Quick Service,165
+L002,Hyderabad,Fine Dining,143
+L003,Delhi,Quick Service,104
+L004,Mumbai,Fine Dining,171
+L005,Mumbai,Quick Service,127
+L006,Pune,Cafe,110
+L007,Chennai,Fine Dining,112
+L008,Hyderabad,Casual Dining,76
+L009,Bengaluru,Quick Service,54
+L010,Chennai,Casual Dining,128
+L011,Delhi,Cafe,182
+L012,Pune,Fine Dining,50
